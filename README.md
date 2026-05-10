@@ -14,22 +14,22 @@
 
 ## 在线阅读
 
-- [第一章 辞职](markdown/01-第一章-辞职.md)
-- [第二章 渡口](markdown/02-第二章-渡口.md)
-- [第三章 旧厂](markdown/03-第三章-旧厂.md)
-- [第四章 大雨](markdown/04-第四章-大雨.md)
-- [第五章 许可](markdown/05-第五章-许可.md)
-- [第六章 过客](markdown/06-第六章-过客.md)
-- [第七章 赌注](markdown/07-第七章-赌注.md)
-- [第八章 退路](markdown/08-第八章-退路.md)
-- [第九章 转让](markdown/09-第九章-转让.md)
-- [第十章 水声](markdown/10-第十章-水声.md)
+- [第一章 辞职](markdown/第01章-辞职.md)
+- [第二章 渡口](markdown/第02章-渡口.md)
+- [第三章 旧厂](markdown/第03章-旧厂.md)
+- [第四章 大雨](markdown/第04章-大雨.md)
+- [第五章 许可](markdown/第05章-许可.md)
+- [第六章 过客](markdown/第06章-过客.md)
+- [第七章 赌注](markdown/第07章-赌注.md)
+- [第八章 退路](markdown/第08章-退路.md)
+- [第九章 转让](markdown/第09章-转让.md)
+- [第十章 水声](markdown/第10章-水声.md)
 
 ---
 
 ## 下载
 
-- [📄 下载 PDF 版](/chenxia.pdf)
+- [📄 下载 PDF 版](./下沉.pdf)
 
 ---
 
@@ -73,9 +73,15 @@
 
 ## 许可
 
-本作品采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 许可协议。
+本作品采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。
 
-您可以自由分享本作品，但必须署名、不得用于商业目的、不得修改。
+您可以自由：
+- **分享** — 在任何媒介以任何形式复制、传播本作品
+- **修改** — 改编、翻译、创作衍生作品
+
+但须遵守以下条件：
+- **署名** — 必须注明原作者
+- **非商业** — 不得将本作品用于商业目的
 
 ---
 
