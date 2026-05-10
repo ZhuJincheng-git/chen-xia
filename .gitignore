@@ -1,0 +1,70 @@
+# LaTeX 编译产生的临时文件
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.brf
+*.dvi
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.idx
+*.ilg
+*.ind
+*.ist
+*.log
+*.lot
+*.lof
+*.lol
+*.nav
+*.out
+*.ps
+*.pyg
+*.run.xml
+*.snm
+*.synctex.gz
+*.synctex(busy)
+*.toc
+*.vrb
+*.xdv
+
+# 选中的 LaTeX 工具配置文件
+*.latexmkrc
+latexmkrc
+
+# 依赖的自动生成文件
+*.dep
+*.d
+
+# 辅助文件
+*.thm
+*.alg
+*.acn
+*.acr
+*.auxlock
+*.upa
+*.upb
+
+# 来自 pythontex 的文件
+*.pytxcode
+pythontex-files-*/
+
+# 一些编辑器特定文件
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.bak
+*.orig
+
+# latex生成的pdf文件
+/latex/*.pdf
+
+# 操作系统生成的垃圾文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
